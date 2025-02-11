@@ -1,2 +1,4 @@
 # Fraud-Detection-in-Rent-Payments
 Fraud Detection in Rent Payments
+
+Fraud detection in financial transactions is a critical challenge in today's digital economy. This study aims to develop a machine learning-based approach for identifying fraudulent rental payments. By leveraging supervised and unsupervised learning models, we analyze transaction patterns to distinguish fraudulent activities from genuine transactions. The study explores various techniques for handling imbalanced datasets and evaluates model performance using industry-standard metrics. Future enhancements focus on advanced feature engineering and real-time deployment for improved fraud detection accuracy.
